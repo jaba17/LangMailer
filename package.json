@@ -2,7 +2,7 @@
   "name": "lang-mail",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jaba17.github.io/LangMail",
+  "homepage": "https://jaba17.github.io/LangMailer",
   "dependencies": {
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
